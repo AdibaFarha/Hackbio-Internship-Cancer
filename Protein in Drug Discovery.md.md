@@ -27,7 +27,7 @@ To conclude, Modern medication and therapeutics now prefer using computer-based 
 \
 \
 \
-\
+
 
 
 References:
