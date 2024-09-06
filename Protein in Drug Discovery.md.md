@@ -16,17 +16,8 @@ Also, As protein already shows numerous possibilities of potential drug impacts,
 
 To conclude, Modern medication and therapeutics now prefer using computer-based protein structure development to underline their potency, efficacy, and establishment by using previous data and opting for creating protein-based assays and pathways with high throughput. Proteomics has been advancing drug discovery for more than two decades now and aspires to bring greater prospects in the future. 
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+
+
 
 
 
@@ -37,9 +28,6 @@ https\://doi.org/10.1101/2024.05.17.594634
 
 Sledz, P, & Caflisch, A. (2018). Protein structure-based drug design, from docking to molecular dynamics. Current Opinion in Structural Biology (ELSEVIER).\
 <https://doi.org/10.1016/j.sbi.2017.10.010>
-
-
-
 
 Walls, A. C., Park, Y., Tortorici, M. A., Wall, A., McGuire, & A. T., Veesler, D. (2020). Structure,  Function, and Antigenecity of the SARS-CoV-2 spike Glycoprotein. Cell. 
 
