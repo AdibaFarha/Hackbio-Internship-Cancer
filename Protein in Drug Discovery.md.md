@@ -4,7 +4,7 @@
 
 **Proteomes for Drug Design:**
 
-****First off, Structural proteins and their expressions can serve as great drug designing potentials by combining computer-aided technology and using the data from crystallography, X-ray and many more. It helps to understand the 3D probe protein structural binding affinity by docking small biomolecules. Docking up to 10<sup>6</sup> by scoring into and implicit-solvent force field can help to identify micromolar protein binders by using rigid protein targets (Sledz et al., 2006). A study centering covid-outbreak in 2020 has also outlined the targeted protein SARS-CoV-2 protein spike which further helped to create covid vaccines (Walls et al., 2020). \
+First off, Structural proteins and their expressions can serve as great drug designing potentials by combining computer-aided technology and using the data from crystallography, X-ray and many more. It helps to understand the 3D probe protein structural binding affinity by docking small biomolecules. Docking up to 10<sup>6</sup> by scoring into and implicit-solvent force field can help to identify micromolar protein binders by using rigid protein targets (Sledz et al., 2006). A study centering covid-outbreak in 2020 has also outlined the targeted protein SARS-CoV-2 protein spike which further helped to create covid vaccines (Walls et al., 2020). \
 \
 &#x20;**Structural proteins for Drug Target:**
 
@@ -30,15 +30,15 @@ To conclude, Modern medication and therapeutics now prefer using computer-based 
 \
 
 
-References:\
-\
+References:
+
 Qiao, F., Binknowski, T. A., Broughan, I., Chen, W., Natarjan, A., Schiltz, G. E., Scheidt, K. A., Anderson, W. F., & Bergan, R. (2024). Protein Structure Inspired Drug Discovery. bioRxiv (Cold Spring Harbor Laboratory)\
 https\://doi.org/10.1101/2024.05.17.594634
 
 Sledz, P, & Caflisch, A. (2018). Protein structure-based drug design, from docking to molecular dynamics. Current Opinion in Structural Biology (ELSEVIER).\
 <https://doi.org/10.1016/j.sbi.2017.10.010>
 
-\
+
 
 
 Walls, A. C., Park, Y., Tortorici, M. A., Wall, A., McGuire, & A. T., Veesler, D. (2020). Structure,  Function, and Antigenecity of the SARS-CoV-2 spike Glycoprotein. Cell. 
